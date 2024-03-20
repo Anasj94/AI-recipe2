@@ -1,0 +1,48 @@
+# Declaration.txt
+
+## Code and Resource Attribution Declaration
+
+This document serves as a declaration of all external code, libraries, APIs, or any resources used in the development of the project. It is mandatory to provide proper attribution for any components not authored by the submitting students.
+
+---
+
+### Attribution Details:
+
+
+1. **Transformers:**
+   - **Source:** [https://huggingface.co/docs/transformers/en/model_doc/t5]
+   - **Usage:** [Used overall to fetch, create model and tokenize the text as well. This is also used to create pipelines for the text generation.]
+
+2. **T5 Recipe:**
+   - **Source:** [Flax community by google]
+   - **Usage:** [Its an API that helped for our model to fetch recipe data.]
+
+3. **DALLE 2 & Vision:**
+   - **Source:** [OPENAI]
+   - **Usage:** [Used for the generation of images and also for fetching the data from the images.]
+
+4. **Pytube:**
+   - **Source:** [https://pytube.io/en/latest/]
+   - **Usage:** [Used to search and create algo for searching videos on youtube.]
+
+5. **Streamlit:**
+   - **Source:** [https://streamlit.io]
+   - **Usage:** [We used this library to create a UI/UX experience for the users.]
+
+---
+
+### Academic Integrity Notice:
+
+I, [Anas Javaid], solemnly declare that all external code, libraries, APIs, or any resources used in this project have been properly attributed in this Declaration.txt file. I understand that failure to declare external resources or providing misleading information may be considered academic fraud and can result in severe consequences.
+
+[Anas Javaid]
+[17-March-2024]
+
+---
+
+I, [Pratish Pushparaj], solemnly declare that all external code, libraries, APIs, or any resources used in this project have been properly attributed in this Declaration.txt file. I understand that failure to declare external resources or providing misleading information may be considered academic fraud and can result in severe consequences.
+
+[Pratish Pushparaj]
+[17-March-2024]
+
+Note: It is the responsibility of each student to ensure accurate and comprehensive attribution in this Declaration.txt file. Any omissions will be considered a violation of academic integrity.

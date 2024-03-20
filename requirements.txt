@@ -1,0 +1,9 @@
+streamlit
+transformers
+Pillow
+pytube
+openai
+python-dotenv
+requests
+tf-keras
+tensorflow
