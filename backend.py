@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from transformers import AutoTokenizer, pipeline, set_seed
 from openai import OpenAI
 from pytube import Search
 from dotenv import load_dotenv
@@ -109,6 +110,10 @@ def get_ingredients():
             return jsonify({'error': 'Failed to process the image.'}), 500
 
 
+##############################################################################
+        
+
+##############################################################################
 
 if __name__ == '__main__':
     app.run(debug=True)

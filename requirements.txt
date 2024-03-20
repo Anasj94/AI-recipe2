@@ -7,3 +7,4 @@ python-dotenv
 requests
 tf-keras
 tensorflow
+flask
